@@ -10,16 +10,18 @@
 1 onion
 Salt
 Pepper
+1 avocada
 
+Other fruit suggestions?
 ## Equipment needed:
 Frying pan
 
 ## Steps for preparation:
-
+Comment with steps?
 
 
 ### Notes:
-
+Reopening pull request
 
 
 ### Codemates #
