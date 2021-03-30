@@ -1,6 +1,6 @@
-# Replace with recipe name
+# Breakfast Test
 
-## Servings: 
+## Servings: 6 Servings
 
 ## Time to prepare: 
 
